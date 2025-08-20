@@ -1,3 +1,6 @@
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) [![DOI](https://zenodo.org/badge/852884400.svg)](https://doi.org/10.5281/zenodo.16911014)
+
+
 # localZBackProjector
 
 Retrieves the height map from 2D denoised projected epithelia image
